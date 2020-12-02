@@ -3383,10 +3383,14 @@ h6 {
           transform: translateY(100px);
   -webkit-transition-delay: 2500ms;
           transition-delay: 2500ms;
-  -webkit-transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+  -webkit-transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
 }
 
 .main-slider .swiper-slide-active .image-layer {
@@ -7438,4 +7442,37 @@ h6 {
   background-color: #fff;
   color: var(--thm-black);
 }
+/*donate page*/
+.main-demo{
+  text-align:center;
+  border:1px solid silver;
+  margin:20px 20px 20px 20px;
+color: black;
+
+}
+.main-donate h3{
+  font-size:25px;
+  font-style:bold;
+  padding-top:10px;
+  font-weight:600;
+}
+table{
+   border: collapse;
+  margin-left:20px;
+  margin-top:10px;
+  width:60%;
+  
+  }
+  th{
+    font-size:20px;
+    text-align:left;
+    padding:5px;
+    }
+
+    td{
+      font-size:15px;
+      text-align: left;
+      padding-bottom:30px;
+    }
+  
 /*# sourceMappingURL=main.css.map */

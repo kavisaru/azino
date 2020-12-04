@@ -7502,4 +7502,30 @@ font-weight:400;
  .faq-body,.collapse{
 	 padding:20px;
  }
+@media (max-width:375px){
+.faq{
+ background-color:silver;
+	width:50%;
+	display:block;
+ }
+.faq-header{
+	padding:20px;
+	margin-top:20px;
+	}
+.col-lg-11, .col-md-11, .col-sm-11
+{
+font-size:15px;
+font-weight:400;
+ }
+ button{
+	
+	 color:black;
+	 text-align:center;
+	 float:right;
+	 bottom:35px;
+	 background-color:yellow;
+ }
+ .faq-body,.collapse{
+	 padding:20px;
+}}
 /*# sourceMappingURL=main.css.map */

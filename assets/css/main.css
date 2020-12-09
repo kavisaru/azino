@@ -7476,6 +7476,15 @@ table{
       padding-left:20px;
 	  
     }
+  .icons-app{
+text-align:center;
+      word-spacing:20px;
+	  }
+
+
+	
+
+
 /*faq page*/
   .faq{
  background-color:silver;
@@ -7502,30 +7511,47 @@ font-weight:400;
  .faq-body,.collapse{
 	 padding:20px;
  }
-@media (max-width:375px){
+@media only screen and (min-width:300px){
 .faq{
+
  background-color:silver;
-	width:50%;
-	display:block;
- }
-.faq-header{
-	padding:20px;
-	margin-top:20px;
-	}
-.col-lg-11, .col-md-11, .col-sm-11
-{
-font-size:15px;
-font-weight:400;
- }
- button{
+
+ width:100%;
+
+  }
 	
-	 color:black;
-	 text-align:center;
-	 float:right;
-	 bottom:35px;
-	 background-color:yellow;
+
+	
+
+	margin-top:20px;
+
+	}
+
+.col-lg-11, .col-md-11, .col-sm-11
+
+{
+
+font-size:15px;
+
+font-weight:400;
+
  }
+ .col-lg-1,.col-md-1,.col-sm-1{
+
+   color:black;
+
+   width:5%;
+
+  text-align: center;
+
+   
+
+ }
+
+ 
+
  .faq-body,.collapse{
+
 	 padding:20px;
 }}
 /*# sourceMappingURL=main.css.map */

@@ -7480,10 +7480,65 @@ table{
 text-align:center;
       word-spacing:20px;
 	  }
+ @media only screen and (min-width:300px){
 
+.main-demo{
 
+text-align:center;
+
+   
+
+color: black;
+
+ }
+
+.main-donate h3{
+
+  font-size:20px;
+
+  font-style:bold;
+
+  padding-top:10px;
+
+  font-weight:600;
+
+  
+
+}
+table{
+
+  border:1px solid silver;
+
+  border: collapse;
+
+  width:100%;
+
+  margin-top:10px;
+
+  }
+
+  th{
+
+    font-size:15px;
+
+    text-align:left;
+
+    padding-left:20px;
+
+    } 
 	
+ td{
 
+      font-size:10px;
+
+      text-align: left;
+
+      padding-left:20px;
+
+	  
+ }
+
+    }
 
 /*faq page*/
   .faq{

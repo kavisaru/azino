@@ -2150,8 +2150,6 @@ h6 {
   background-color: var(--thm-black);
   position: relative;
   display: none;
-  -webkit-box-shadow: 0px 0px 65px 0px rgba(0, 0, 0, 0.1);
-          box-shadow: 0px 0px 65px 0px rgba(0, 0, 0, 0.1);
 }
 
 @media (min-width: 1200px) {
@@ -7445,7 +7443,7 @@ h6 {
 /*donate page*/
 .main-demo{
   text-align:center;
-   margin:20px 20px 20px 20px;
+   margin:5px;
    color: black;
    
 }
@@ -7460,7 +7458,7 @@ table{
   border: collapse;
   margin-left:auto;
   margin-right:auto;
-  width:70%;
+  width:100%;
 	
   margin-top:20px;
   height:100px;
@@ -7475,7 +7473,6 @@ table{
       font-size:15px;
       text-align: left;
       padding-left:20px;
-	  
     }
   .icons-app{
 text-align:center;
@@ -7484,11 +7481,7 @@ text-align:center;
  @media only screen and (min-width:300px){
 
 .main-demo{
-
 text-align:center;
-
-   
-
 color: black;
 
  }
@@ -7512,28 +7505,21 @@ table{
 
   border: collapse;
 
-  width:60%;
+  width:95%;
 
   margin-top:10px;
 
   }
 
   th{
-
     font-size:15px;
-
     text-align:left;
-
     padding-left:20px;
-
     } 
 	
  td{
-
       font-size:10px;
-
       text-align: left;
-
       padding-left:20px;
 
 	  

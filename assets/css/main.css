@@ -2862,7 +2862,7 @@ h6 {
 
 .main-header__two .main-menu__list {
   background-color: var(--thm-black);
-  width: calc(100% - 223px);
+  width: calc(100% - 43px);
   padding-left: 60px;
   padding-right: 50px;
 }
@@ -3593,7 +3593,7 @@ h6 {
 
 @media (min-width: 1200px) {
   .page-header .container {
-    padding-top: 309px;
+    padding-top: 120px;
   }
 }
 
@@ -7447,46 +7447,49 @@ h6 {
    color: black;
    
 }
-.main-donate h3{
-  font-size:25px;
+.main-donate {
   font-style:bold;
   padding-top:10px;
-  font-weight:600;
 }
 table{
   border:1px solid silver;
   border: collapse;
   margin-left:auto;
   margin-right:auto;
-  width:100%;
+  width:88%;
 	
   margin-top:20px;
   height:100px;
   }
-  th{
-    font-size:20px;
-    text-align:left;
-    padding-left:20px;
-    }
-
-    td{
-      font-size:15px;
-      text-align: left;
-      padding-left:20px;
-    }
+table tr th h3{
+    font-size:33px;
+    text-align:center;
+    padding-left:5px;
+    } 
+	
+table tr td h3{
+      font-size:30px;
+      text-align: center;
+      padding-left:5px;
+	  
+ }
+  th, td {
+	  border:1px solid silver;
+  }
+ 
   .icons-app{
 text-align:center;
       word-spacing:20px;
 	  }
 
-@media only screen and (min-width:300px){
+@media only screen and (max-width:700px){
 .main-demo{
 text-align:center;
 color: black;
 
  }
 
-.main-donate h3{
+.main-donate{
 
   font-size:20px;
 
@@ -7505,23 +7508,20 @@ table{
 
   border: collapse;
 
-  width:95%;
+  width:100%;
 
   margin-top:10px;
 
   }
 
-  th{
-    font-size:15px;
-    text-align:left;
-    padding-left:20px;
+  table tr th h3{
+    font-size:12px;
+    padding-left:3px;
     } 
 	
- td{
-      font-size:10px;
-      text-align: left;
-      padding-left:20px;
-
+ table tr td h3{
+      font-size:11px;
+      padding-left:3px;
 	  
  }
 

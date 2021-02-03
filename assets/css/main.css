@@ -7543,14 +7543,29 @@ font-size:15px;
 font-weight:400;
  }
  button{
-	
+
+  background: white;
 	 color:black;
-	 text-align:center;
+	 
 	 float:right;
-	 bottom:35px;
-	 background-color:yellow;
+	 
+  overflow: hidden;
+  transition: .4s;
+	 
+	 
+	 bottom:25px;
+	 border:none;
+	 cursor:pointer;
+	 font-size:15px;
+	 border-radius:50%;
  }
- .faq-body,.collapse{
+button:hover{
+   background:black;
+   color: white;
+   overflow:hidden;
+   border:none;
+  } 
+.faq-body,.collapse{
 	 padding:20px;
  }
 @media only screen and (min-width:300px){
@@ -7561,13 +7576,6 @@ font-weight:400;
  width:100%;
 
   }
-	
-
-	
-
-	margin-top:20px;
-
-	}
 
 .col-lg-11, .col-md-11, .col-sm-11
 

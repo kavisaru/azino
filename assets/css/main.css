@@ -7543,7 +7543,8 @@ font-size:15px;
 font-weight:400;
  }
  button{
-
+Width:50px;
+Height:50px;
   background: white;
 	 color:black;
 	 
@@ -7553,7 +7554,7 @@ font-weight:400;
   transition: .4s;
 	 
 	 
-	 bottom:25px;
+	 bottom:35px;
 	 border:none;
 	 cursor:pointer;
 	 font-size:15px;
@@ -7564,6 +7565,7 @@ button:hover{
    color: white;
    overflow:hidden;
    border:none;
+outline:none;
   } 
 .faq-body,.collapse{
 	 padding:20px;
@@ -7604,4 +7606,39 @@ font-weight:400;
 
 	 padding:20px;
 }}
+@media only screen and (max-width:1000px){
+button{
+Width:35px;
+Height:35px;
+  background: white;
+	 color:black;
+	 
+	 float:right;
+	 
+  overflow: hidden;
+  transition: .4s;
+	 
+	 
+	 bottom:30px;
+	 border:none;
+	 cursor:pointer;
+	 font-size:15px;
+	 border-radius:80%;
+ }
+button:hover{
+   background:black;
+   color: white;
+   overflow:hidden;
+   border:none;
+outline:none;
+  }}
+
+  
+
+ 
+
+ 
+
+
+
 /*# sourceMappingURL=main.css.map */

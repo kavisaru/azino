@@ -7690,8 +7690,8 @@ font-weight:400;
 }}
 @media only screen and (max-width:1000px){
 button{
-Width:35px;
-Height:35px;
+Width:30px;
+Height:30px;
   background: white;
 	 color:black;
 	 transform:scale(1,1);

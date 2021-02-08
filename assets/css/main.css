@@ -7543,8 +7543,8 @@ font-size:15px;
 font-weight:400;
  }
  button{
-Width:50px;
-Height:50px;
+Width:35px;
+Height:35px;
   background: white;
 	 color:black;
 	 
@@ -7554,7 +7554,7 @@ Height:50px;
   transition: .4s;
 	 
 	 
-	 bottom:35px;
+	 bottom:25px;
 	 border:none;
 	 cursor:pointer;
 	 font-size:15px;
@@ -7567,6 +7567,87 @@ button:hover{
    border:none;
 outline:none;
   } 
+#new1{
+ font-size:20px;
+
+    position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new2{
+ font-size:20px;
+ position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new3{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new4{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new5{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new6{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new7{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new8{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new9{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
+#new10{
+ font-size:20px;
+position: absolute;
+    margin-top:10px;
+    top:2%;
+    right:30%;
+   bottom:20px;
+}
 .faq-body,.collapse{
 	 padding:20px;
  }

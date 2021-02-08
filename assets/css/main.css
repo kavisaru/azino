@@ -7543,8 +7543,8 @@ font-size:15px;
 font-weight:400;
  }
  button{
-Width:45px;
-Height:45px;
+Width:48px;
+Height:48px;
 Color:red;
   background: white;
 	 color:black;
@@ -7555,7 +7555,7 @@ Color:red;
   transition: .4s;
 	 
 	 
-	 bottom:25px;
+	 bottom:35px;
 	 border:none;
 	 cursor:pointer;
 	 font-size:15px;
@@ -7569,7 +7569,7 @@ button:hover{
 outline:none;
   } 
 #new1{
- font-size:20px;
+ font-size:28px;
 
     position: absolute;
     margin-top:10px;

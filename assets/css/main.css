@@ -7687,10 +7687,10 @@ font-weight:400;
 
 	 padding:20px;
 }}
-@media only screen and (max-width:1000px){
+@media only screen and (max-width:600px){
 button{
-Width:35px;
-Height:35px;
+Width:30px;
+Height:30px;
   background: white;
 	 color:black;
 	 
@@ -7700,12 +7700,83 @@ Height:35px;
   transition: .4s;
 	 
 	 
-	 bottom:30px;
+	 bottom:25px;
 	 border:none;
 	 cursor:pointer;
 	 font-size:15px;
 	 border-radius:80%;
  }
+ #new1{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new2{
+
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new3{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new4{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new5{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new6{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new7{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new8{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new9{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
+#new10{
+font-size:18px;
+   position: absolute;
+   color:red;
+margin-top:16%;
+  margin-left:-3px;
+  }
 button:hover{
    background:black;
    color: white;

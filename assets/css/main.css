@@ -7688,7 +7688,7 @@ font-weight:400;
 
 	 padding:20px;
 }}
-@media only screen and (max-width:600px){
+@media only screen and (max-width:1000px){
 button{
 Width:30px;
 Height:30px;

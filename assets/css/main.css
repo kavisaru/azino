@@ -7545,8 +7545,8 @@ font-weight:400;
  button{
 Width:48px;
 Height:48px;
-Color:red;
-  background: teal;
+
+  background: white;
 	 color:black;
 	 
 	 float:right;
@@ -7578,7 +7578,7 @@ outline:none;
    bottom:20px;
 }
 #new2{
- font-size:20px;
+ font-size:28px;
  position: absolute;
     margin-top:10px;
     top:2%;
@@ -7586,7 +7586,7 @@ outline:none;
    bottom:20px;
 }
 #new3{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7594,7 +7594,7 @@ position: absolute;
    bottom:20px;
 }
 #new4{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7602,7 +7602,7 @@ position: absolute;
    bottom:20px;
 }
 #new5{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7610,7 +7610,7 @@ position: absolute;
    bottom:20px;
 }
 #new6{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7618,7 +7618,7 @@ position: absolute;
    bottom:20px;
 }
 #new7{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7626,7 +7626,7 @@ position: absolute;
    bottom:20px;
 }
 #new8{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7634,7 +7634,7 @@ position: absolute;
    bottom:20px;
 }
 #new9{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
@@ -7642,7 +7642,7 @@ position: absolute;
    bottom:20px;
 }
 #new10{
- font-size:20px;
+ font-size:28px;
 position: absolute;
     margin-top:10px;
     top:2%;
